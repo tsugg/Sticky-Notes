@@ -12,6 +12,8 @@ The documentation can be found here : https://imageai.readthedocs.io/en/latest/c
 This was my first attempt at using OCR, so I wasn't quite sure which API to use. I went with keras-ocr since I am comfortable using that framework. If you have any advice on other algorithms to use please let me know. 
 The documentation can be found here : https://github.com/faustomorales/keras-ocr
 
+![Cropped output image](https://github.com/tsugg/Sticky-Notes/blob/master/test_image.JPG)
+
 # INSTRUCTIONS
 
 ## Step 1: Download the model 
