@@ -22,4 +22,4 @@ Download from here : https://drive.google.com/open?id=1Qc1E8z0MPUzzVZIeFxlGACtgF
 and upload it to colab.research.google.com
 (You can also open it directly from the master branch)
 
-##Step 3: Follow instructions on the Google Colab notebook
+## Step 3: Follow instructions on the Google Colab notebook
