@@ -14,7 +14,8 @@ The documentation can be found here : https://github.com/faustomorales/keras-ocr
 
 ## Example Output
 ![Cropped output image](https://github.com/tsugg/Sticky-Notes/blob/master/test_image.JPG)
-![Corresponding output text file] (https://github.com/tsugg/Sticky-Notes/blob/master/test_text.JPG)
+
+![Corresponding output text file](https://github.com/tsugg/Sticky-Notes/blob/master/test_text.JPG)
 
 # INSTRUCTIONS
 
