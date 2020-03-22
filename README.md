@@ -2,7 +2,7 @@
 
 Here is my attempt at the AFS Challenge #24 
 
-I tried to make it as easy as possible for anyone to reproduce my expirement, so I've decided to use Google Colab. I was having issues with cudnn versions when I tried to run the code on multiple devices on Jupyter Notebook.
+I tried to make it as easy as possible for anyone to reproduce my expirement, so I've decided to use Google Colab. I was having issues with cudnn versions when I tried to run the code on multiple devices on Jupyter Notebook. If you have had this issue in the past, please let me know.
 
 I took about 20 images of different colored sticky notes on a white wall. Each image had anywhere between 5 and 15 sticky notes.
 
