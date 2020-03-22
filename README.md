@@ -18,7 +18,7 @@ The documentation can be found here : https://github.com/faustomorales/keras-ocr
 Download from here: https://drive.google.com/open?id=1waRi2YBuNY6pX7kCYy_kWsI0AylFpYco
 
 ## Step 2: Go to the Google Colab Notebook
-Download from here : https://drive.google.com/open?id=1Qc1E8z0MPUzzVZIeFxlGACtgFJP2tQH_
+Download from here : https://drive.google.com/file/d/1Qc1E8z0MPUzzVZIeFxlGACtgFJP2tQH_/view?usp=sharing
 and upload it to colab.research.google.com
 (You can also open it directly from the master branch)
 
