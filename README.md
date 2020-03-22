@@ -4,7 +4,7 @@ Here is my attempt at the AFS Challenge #24
 
 I tried to make it as easy as possible for anyone to reproduce my expirement, so I've decided to use Google Colab. I was having issues with cudnn versions when I tried to run the code on multiple devices on Jupyter Notebook.
 
-I took about 20 images of differenct colored sticky notes on a white wall. Each image had anywhere between 5 and 15 sticky notes.
+I took about 20 images of different colored sticky notes on a white wall. Each image had anywhere between 5 and 15 sticky notes.
 
 I decided to use ImageAI's custom object detection API, since this was a pretty quick challenge. I didn't want to get stuck in hours of training custom CNNs.
 The documentation can be found here : https://imageai.readthedocs.io/en/latest/customdetection/
