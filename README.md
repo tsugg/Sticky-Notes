@@ -6,7 +6,7 @@ I tried to make it as easy as possible for anyone to reproduce my expirement, so
 
 I took about 20 images of different colored sticky notes on a white wall. Each image had anywhere between 5 and 15 sticky notes.
 
-I decided to use ImageAI's custom object detection API, since this was a pretty quick challenge. I didn't want to get stuck in hours of training custom CNNs.
+I decided to use ImageAI's custom object detection API, since this was a pretty quick challenge. I didn't want to get stuck in hours of training custom CNNs. ImageAI uses a YOLOv3 architecture. I trained for 100 epochs with scores topping off at 1.0 after 50 epochs.
 The documentation can be found here : https://imageai.readthedocs.io/en/latest/customdetection/
 
 This was my first attempt at using OCR, so I wasn't quite sure which API to use. I went with keras-ocr since I am comfortable using that framework. If you have any advice on other algorithms to use please let me know. 
@@ -23,3 +23,7 @@ and upload it to colab.research.google.com
 (You can also open it directly from the master branch)
 
 ## Step 3: Follow instructions on the Google Colab notebook
+
+# Conclusion
+
+The object detection part of the challenge seemed to go very well. I wonder how well this would actually perform in a work environment, since I trained on a white wall. I know many of the walls in offices are glass, so that may have an effect on the model mAP. If this actually gets implemented, I hope someone with better handwritting than me is writing on the notes, because the OCR algorithm sure didn't like mine. 
