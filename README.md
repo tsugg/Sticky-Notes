@@ -21,7 +21,7 @@ The documentation can be found here : https://github.com/faustomorales/keras-ocr
 
 ## Step 1: Download the model 
 Download from here: https://drive.google.com/open?id=1waRi2YBuNY6pX7kCYy_kWsI0AylFpYco
-(You can also download it from the models directory. You will have to download it form the UI, since the file size becomes an issue when cloning the repository)
+(You can also download it from the models directory on the master branch. You will have to download it form the UI, since the file size becomes an issue when cloning the repository)
 
 ## Step 2: Go to the Google Colab Notebook
 Download from here : https://drive.google.com/file/d/1Qc1E8z0MPUzzVZIeFxlGACtgFJP2tQH_/view?usp=sharing
